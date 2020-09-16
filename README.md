@@ -14,6 +14,4 @@ I made a couple of small visual changes. I had the links change color when it is
 
 ## Visuals
 
-The video below demonstrates the links to the sections of the webpage.
-
-<iframe src="https://drive.google.com/file/d/1jRo_oiLGjXq_VXVFaKhi3CGXcYoOOyyd/preview" width="640" height="480"></iframe>
+Please refer to a demonstration of the functional links of the sections in the webpage <a href="https://drive.google.com/file/d/1jRo_oiLGjXq_VXVFaKhi3CGXcYoOOyyd/view?usp=sharing">here</a>.
